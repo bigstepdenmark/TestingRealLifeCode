@@ -86,3 +86,8 @@ public class RecognitionAllIT
     }
 }
 ```
+---
+
+### Test result
+
+![alt tag](https://github.com/bigstepdenmark/TestingRealLifeCode-/blob/master/Skærmbillede%202017-03-07%20kl.%2019.34.12.png?raw=true)
